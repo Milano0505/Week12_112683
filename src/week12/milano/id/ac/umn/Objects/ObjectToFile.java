@@ -1,4 +1,4 @@
-package week12.milano.id.ac.umn.StoringObjects;
+package week12.milano.id.ac.umn.Objects;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
